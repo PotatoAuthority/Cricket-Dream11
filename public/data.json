@@ -1,0 +1,252 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "image": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/kohli231007.jpg"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000,
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rmgmrwwbqofyglemsvrr"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 9.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1600000,
+    "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1i4iwp5iu5j7gb176fp/1/ben-stokes.webp?f=3%3A2&q=0.75&w=900"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1350000,
+    "image": "https://blogs.a-sports.tv/wp-content/uploads/2023/09/kane-williamson-set-to-captain-new-zealand-odi-world-cup-2023.jpg"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 9.4,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 1450000,
+    "image": "https://media.crictracker.com/media/attachments/1667048385959_Shakib-Al-hasan.jpeg"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1480000,
+    "image": "https://i.tribune.com.pk/media/images/rohit1-instagram1738507058-0/rohit1-instagram1738507058-0-412x290.webp"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 9.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1550000,
+    "image": "https://ganashakti-new-website.s3.ap-south-1.amazonaws.com/24078/67ac7f690ed3d_20240610036L-860x624.jpg"
+  },
+  {
+    "playerName": "MS Dhoni",
+    "playerCountry": "India",
+    "playerType": "Wicket-Keeper",
+    "rating": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1420000,
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/14C34/production/_120444058_gettyimages-1151430063.jpg"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-Rounder",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1470000,
+    "image": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F09%2FHardik-Pandya-Asia-Cup-20251-scaled.jpg&w=1920&q=75"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicket-Keeper",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1490000,
+    "image": "https://static.independent.co.uk/2023/02/26/12/0b40e66ddb1e0688eecd859bb49dbfaeY29udGVudHNlYXJjaGFwaSwxNjc3NDk3NTQ4-2.69703789.jpg"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1430000,
+    "image": "https://i2-prod.mirror.co.uk/article34640586.ece/ALTERNATES/s1200f/0_GettyImages-2189681702.jpg"
+  },
+  {
+    "playerName": "Jofra Archer",
+    "playerCountry": "England",
+    "playerType": "Bowler",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1460000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_2cvvG7DyZEXNxsMO45QvE1_x9ulXAoUAUQ&s"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 9.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1410000,
+    "image": "https://images.news18.com/ibnlive/uploads/2022/08/david-warner-reuters-16610770814x3.jpg"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1450000,
+    "image": "https://c.ndtvimg.com/2023-10/6pf17ic8_steve-smith-afp_625x300_09_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1520000,
+    "image": "https://resources.cricket-australia.pulselive.com/photo-resources/2025/09/01/55cac7c2-0da3-46c4-a395-a35b06b94166/Pat-Cummins-training-gear.jpg?width=950&height=535"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 9.2,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1500000,
+    "image": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c746118/starc-finishes-as-australias-second-highest-wicket-taker-in-the-format-behind-only-adam-zampa.jpg"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All-Rounder",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1440000,
+    "image": "https://i.pinimg.com/736x/f8/c3/bd/f8c3bd585236003b0d31c4740e60b0a2.jpg"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 9.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1480000,
+    "image": "https://en.dailypakistan.com.pk/wp-content/uploads/2023/06/shaheen-shah-afridi-1686585786-4337.jpg"
+  },
+  {
+    "playerName": "Mohammad Rizwan",
+    "playerCountry": "Pakistan",
+    "playerType": "Wicket-Keeper",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1390000,
+    "image": "https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1738908390mohammad-rizwan-net-worth-2025.webp"
+  },
+  {
+    "playerName": "Fakhar Zaman",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 8.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": 1320000,
+    "image": "https://c.cricketpakistan.com.pk/images/posts/cover_1702355463fakhar.jpg"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 1400000,
+    "image": "https://img.cricketworld.com/images/e-044564/trent-boult.jpg"
+  },
+  {
+    "playerName": "Devon Conway",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1340000,
+    "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/17171/production/_118377549_devonconway2.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "All-Rounder",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1530000,
+    "image": "https://blogs.a-sports.tv/wp-content/uploads/2025/04/rashid-khan.png"
+  },
+  {
+    "playerName": "Mohammed Shami",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1380000,
+    "image": "https://preview.redd.it/is-it-the-end-of-the-road-for-mohammad-shami-v0-c5b3ps0ck2tf1.jpeg?auto=webp&s=2825d7562e5fde7ddf90fa8600b6aef1ef1d4276"
+  },
+  {
+    "playerName": "KL Rahul",
+    "playerCountry": "India",
+    "playerType": "Wicket-Keeper",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1360000,
+    "image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1764826621880_KL_IND_SA.jpg?type=hq"
+  }
+]
